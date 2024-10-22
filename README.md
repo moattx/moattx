@@ -1,4 +1,4 @@
 # Hey there!
-I’m a beginner developer, and I’m currently learning Rust :)
+I’m a beginner developer :D
 
-I currently use [NixOS](https://nixos.org/).
+My favorite OS is [NetBSD](https://netbsd.org/). Currently using [Arch](https://archlinux.org/) (..btw). 
